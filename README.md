@@ -1,4 +1,4 @@
-                                    AMOILEOLE ROMAIN
+AMOILEOLE ROMAIN
 💻 Développeur web junior | 🚴 Cycliste passionné
 
 Entre lignes de code et kilomètres parcourus, je cultive la même passion : apprendre, progresser et relever de nouveaux défis. 🚀
@@ -11,7 +11,7 @@ Age : 21
 2024-2025 : Formation Technicien d'assistance informatique (Diplomé d'un Titre Pro de niveau 4)
 
 
-    Ce que je sais faire :
+Ce que je sais faire :
 
 Intégration web
     - HTML5 — Débutant
@@ -31,4 +31,4 @@ Environnement de développement
     - Git Bash
     - Ligne de commande
 
-        Mon Journal de Bord - https://github.com/romain-amoileole/journal-de-bord
+Mon Journal de Bord - https://github.com/romain-amoileole/journal-de-bord
